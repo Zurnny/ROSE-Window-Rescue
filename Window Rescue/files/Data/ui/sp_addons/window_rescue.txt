@@ -1,0 +1,2 @@
+window_rescue
+; Marks the Window Rescue add-on as installed. Removed again with the add-on.
