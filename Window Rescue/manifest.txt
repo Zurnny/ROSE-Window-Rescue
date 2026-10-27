@@ -1,5 +1,5 @@
 ; Update list for Window Rescue. Upload this next to mod.ini and the files folder.
-version=1.1
-a92fb41e3335081f33920324519c60ef0c6bf528|mod.ini
+version=1.2
+4f017dd9663c08a3f0b10d1bad16a8b69f0c1d0f|mod.ini
 8de020803e1cb61b359414c67b2731d7b0dfbf85|files/Data/ui/sp_addons/window_rescue.txt
-59c360ee044c1671671e8a5ff016e57c61a38a94|files/Data/ui/themes/rose/game/options_bgfx.html
+8401094a996e2e0430ccdbfeab1073aaa3729190|files/Data/ui/themes/rose/game/options_bgfx.html
