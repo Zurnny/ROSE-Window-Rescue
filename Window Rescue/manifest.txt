@@ -1,10 +1,10 @@
 ; Update list for Window Rescue. Upload this next to mod.ini and the files folder.
-version=1.7
-adea7d7100286f22e54cf8db8271ae424cb78336|mod.ini
+version=1.8
+6828a4fe5ceac12db36061f12e72172d5fde8c8d|mod.ini
 8de020803e1cb61b359414c67b2731d7b0dfbf85|files/Data/ui/sp_addons/window_rescue.txt
 f73e3ff2449c21cd26b382a0d965ad68ce2c7387|files/Data/ui/themes/rose/game/menu.html
 4afc0dd827e57b69b5a89fb34676c6c7ec0f575a|files/Data/ui/themes/rose/game/options_bgfx.html
-ed2fbfb375ff419cb5031dcd9a8dbbf668f25caa|files/Data/ui/themes/rose/game/sp_addons_window.html
-105de6beaf0577b9a401f1efb47ffe1dedb522e2|files/Data/ui/themes/rose/imgs/sp_addons_menu.dds
+df14c61c9712375fdda896285ee26c97d7c1ebd0|files/Data/ui/themes/rose/game/sp_addons_window.html
+b7a6f192c058d23543410947e501b6cbf3e0b369|files/Data/ui/themes/rose/imgs/sp_addons_menu.dds
 c9735755117dd4fa76a010d9d13085fefdd2dfb1|files/Data/ui/themes/rose/styles/sp_addons_steampunk.css
 d91eeca9018f74fcc0129e8769899178111feb8f|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
